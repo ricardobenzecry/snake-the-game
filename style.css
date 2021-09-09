@@ -5,6 +5,13 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:white;
-    color: rgb(52, 165, 52);
+    background-color:rgb(253, 253, 253);
+    color: rgb(17, 131, 17);    
 }
+header .btn1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: black;
+    background-color: darkgreen;   
+}
+  
